@@ -15,12 +15,6 @@ Tenho experiência com Java, JavaScript, TypeScript e React Native, atuando tant
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=jpedrotg23&show_icons=true&theme=tokyonight)
-
----
-
 ## 📬 Contato
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/joaootg)
