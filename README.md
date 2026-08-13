@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou o João Pedro
 
-💻 Estudante de Ciência da Computação (UNIFOR - 3º semestre)  
+💻 Estudante de Ciência da Computação (UNIFOR - 4º semestre)  
 💼 Tech Support Intern @ ACS (Automação Comercial e Sistemas)
 
 Tenho experiência com Java, JavaScript, TypeScript, React Native, HTML e CSS, atuando tanto na resolução de problemas quanto no desenvolvimento de soluções. Busco evoluir constantemente na área de tecnologia, com foco em desenvolvimento de software e aplicações práticas.
