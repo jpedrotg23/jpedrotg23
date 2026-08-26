@@ -19,3 +19,7 @@ Tenho experiência com Java, JavaScript, TypeScript, React Native, HTML e CSS, a
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/joaootg)
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joaopedrotg23@gmail.com)
+
+## 📜 Currículo 
+
+[![Currículo](https://img.shields.io/badge/Currículo-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)]([SEU_LINK_DO_DRIVE](https://drive.google.com/file/d/1GCoYGFlUFU7bxJjfV8HpOwsjU4hNUL_c/view?usp=sharing))
