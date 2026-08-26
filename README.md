@@ -22,4 +22,4 @@ Tenho experiência com Java, JavaScript, TypeScript, React Native, HTML e CSS, a
 
 ## 📜 Currículo 
 
-[![Currículo](https://img.shields.io/badge/Currículo-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)]([SEU_LINK_DO_DRIVE](https://drive.google.com/file/d/1GCoYGFlUFU7bxJjfV8HpOwsjU4hNUL_c/view?usp=sharing))
+[![Currículo](https://img.shields.io/badge/📄%20Meu%20Currículo-181717?style=for-the-badge)](https://drive.google.com/file/d/1GCoYGFlUFU7bxJjfV8HpOwsjU4hNUL_c/view?usp=sharing)
