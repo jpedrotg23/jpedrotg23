@@ -25,3 +25,10 @@ Tenho experiência com Java, JavaScript, TypeScript, React Native, HTML e CSS, a
 ## 📜 Currículo 
 
 [![Currículo](https://img.shields.io/badge/📄%20Meu%20Currículo-181717?style=for-the-badge)](https://drive.google.com/file/d/1GCoYGFlUFU7bxJjfV8HpOwsjU4hNUL_c/view?usp=sharing)
+
+---
+
+## 🚀 Meu Portfólio
+
+[![Portfolio](https://img.shields.io/badge/PORTFÓLIO-ACESSAR-e50914?style=for-the-badge&logo=code&logoColor=white)](https://jpedrotg23.github.io/portfolio/)
+</a>
