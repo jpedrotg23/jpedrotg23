@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou o João Pedro
 
-💻 Estudante de Ciência da Computação (UNIFOR - 4º semestre)  
-💼 Tech Support Intern @ ACS (Automação Comercial e Sistemas)
+💻 Estudante de Ciência da Computação (UNIFOR)  
+💼 Estagiário de Suporte Técnico de TI @ ACS Automação Comercial e Sistemas
 
 Tenho experiência com Java, JavaScript, TypeScript, React Native, HTML e CSS, atuando tanto na resolução de problemas quanto no desenvolvimento de soluções. Busco evoluir constantemente na área de tecnologia, com foco em desenvolvimento de software e aplicações práticas.
 
@@ -22,7 +22,7 @@ Tenho experiência com Java, JavaScript, TypeScript, React Native, HTML e CSS, a
 
 ---
 
-## 📜 Currículo 
+## 📜 Currículo
 
 [![Currículo](https://img.shields.io/badge/📄%20Meu%20Currículo-181717?style=for-the-badge)](https://drive.google.com/file/d/1GCoYGFlUFU7bxJjfV8HpOwsjU4hNUL_c/view?usp=sharing)
 
@@ -30,5 +30,6 @@ Tenho experiência com Java, JavaScript, TypeScript, React Native, HTML e CSS, a
 
 ## 🚀 Meu Portfólio
 
-[![Portfolio](https://img.shields.io/badge/PORTFÓLIO-ACESSAR-e50914?style=for-the-badge&logo=code&logoColor=white)](https://jpedrotg23.github.io/portfolio/)
-</a>
+[![Portfólio React](https://img.shields.io/badge/PORTFÓLIO-ACESSAR-e50914?style=for-the-badge&logo=code&logoColor=white)](https://jpedrotg23.github.io/portfolio-react/)
+
+[Ver código-fonte do portfólio](https://github.com/jpedrotg23/portfolio-react)
