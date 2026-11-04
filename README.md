@@ -1,54 +1,59 @@
-# Olá! Eu sou João Pedro Teixeira Guimarães 👋
+# João Pedro Teixeira Guimarães
 
-**Estudante de Ciência da Computação na UNIFOR · Desenvolvedor em formação**
+**Computer Science Student | Software Development**
 
-Gosto de transformar ideias e necessidades em soluções digitais. Tenho interesse em desenvolvimento de software, aplicações web e mobile, interfaces intuitivas e tecnologia aplicada a problemas reais. Minha trajetória também inclui vivência em suporte técnico, troubleshooting e resolução de problemas.
+Estudante de Ciência da Computação na **Universidade de Fortaleza (UNIFOR)** e estagiário de Suporte Técnico de TI na **ACS Automação Comercial e Sistemas**.
 
-Estou sempre aprendendo, experimentando novas tecnologias e construindo projetos para evoluir na prática.
+Tenho interesse em desenvolvimento de software, especialmente aplicações web e mobile. Gosto de aprender novas tecnologias colocando a mão no código, desenvolver projetos práticos e entender como construir soluções bem estruturadas.
 
 ---
 
-## 💻 O que desenvolvo
+## 👨‍💻 About me
 
-Tenho interesse em criar soluções digitais como:
+- 🎓 Ciência da Computação — UNIFOR
+- 💻 Foco em desenvolvimento de software e aplicações web
+- 📱 Interesse em desenvolvimento mobile
+- 🧩 Experiência com suporte técnico, troubleshooting e resolução de problemas
+- 📚 Sempre estudando, praticando e evoluindo como desenvolvedor
 
-- **Sites institucionais e landing pages** — presença digital para profissionais, negócios e iniciativas.
-- **Catálogos digitais** — apresentação de serviços, produtos, galerias e informações.
-- **Portfólios profissionais** — páginas para organizar e destacar trabalhos e competências.
-- **Interfaces e aplicações web** — páginas, painéis e protótipos com foco em usabilidade e responsividade.
+## 🛠️ Tech Stack
 
-Cada projeto é uma oportunidade de entender um problema, planejar uma solução e desenvolver uma experiência clara e funcional.
+**Languages**
+<br />
+<img src="https://skillicons.dev/icons?i=java,js,ts,html,css" alt="Java, JavaScript, TypeScript, HTML e CSS" />
 
-## 🚀 Projetos em destaque
+**Frameworks & Libraries**
+<br />
+<img src="https://skillicons.dev/icons?i=react,spring" alt="React e Spring" />
 
-| Projeto | Descrição | Tecnologias |
+**Tools & Platforms**
+<br />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,firebase,godot" alt="Git, GitHub, VS Code, IntelliJ IDEA, Firebase e Godot" />
+
+Também estudo e utilizo tecnologias como React Native, Expo, Vite, Framer Motion, Gradle e GDScript em projetos e experimentos.
+
+## 🚀 Featured Projects
+
+| Project | Description | Stack |
 |---|---|---|
-| [Catálogo Digital — Sophia Barbosa Makeup](https://github.com/jpedrotg23/catalogo-sophia) · [Ver site](https://jpedrotg23.github.io/catalogo-sophia/) | Site profissional com apresentação, galeria, serviços e informações para agendamento. | HTML, CSS, JavaScript |
-| [PAP Online](https://github.com/jpedrotg23/PAP-Online) · [Ver demonstração](https://jpedrotg23.github.io/PAP-Online/) | Protótipo navegável de uma plataforma de apoio psicopedagógico. O repositório contém o frontend; o backend ainda está planejado. | HTML, CSS, JavaScript |
-| [Acessibilidade Urbana](https://github.com/jpedrotg23/AcessibilidadeUrbana) | Projeto acadêmico mobile para registrar e consultar informações colaborativas sobre acessibilidade de locais. | React Native, Expo, TypeScript, Firebase |
+| [RPG Nexus](https://github.com/jpedrotg23/rpg-nexus) | Aplicação web para gerenciamento de campanhas, jogadores e personagens de RPG. Em desenvolvimento. | React, TypeScript, Firebase |
+| [Acessibilidade Urbana](https://github.com/jpedrotg23/AcessibilidadeUrbana) | Aplicativo mobile acadêmico para mapeamento colaborativo de acessibilidade urbana. | React Native, Expo, TypeScript, Firebase |
+| [PAP Online](https://github.com/jpedrotg23/PAP-Online) | Protótipo de frontend para uma plataforma de apoio psicopedagógico. Backend planejado em Java e Spring Boot. | HTML, CSS, JavaScript |
 | [Mundo do Saber](https://github.com/jpedrotg23/MundoDoSaber) | Jogo educacional 2D com exploração, coleta de letras e montagem de palavras. | Godot, GDScript |
-| [RPG Nexus](https://github.com/jpedrotg23/rpg-nexus) | Aplicação web para organizar campanhas, participantes e personagens de RPG de mesa. Em desenvolvimento. | React, TypeScript, Firebase |
-| [Calculadora Lógica](https://github.com/jpedrotg23/calculadora-logica) | Ferramenta acadêmica para construir expressões de lógica proposicional e gerar tabelas-verdade. | HTML, CSS, JavaScript |
+| [Payment Methods Training](https://github.com/jpedrotg23/PaymentMethods-Training-) | Projeto de estudo em Java aplicando padrões Strategy e Factory para simular métodos de pagamento. | Java, Spring Boot, Gradle |
+| [Calculadora Lógica](https://github.com/jpedrotg23/calculadora-logica) | Ferramenta acadêmica para expressões de lógica proposicional e geração de tabelas-verdade. | HTML, CSS, JavaScript |
 
-## 🛠️ Tecnologias e ferramentas
+## 📊 GitHub
 
-<div>
-  <img src="https://skillicons.dev/icons?i=java,js,ts,react,html,css,spring,firebase,vite,git,github,godot" alt="Tecnologias: Java, JavaScript, TypeScript, React, HTML, CSS, Spring, Firebase, Vite, Git, GitHub e Godot" />
-</div>
+[![GitHub](https://img.shields.io/badge/GitHub-jpedrotg23-181717?style=for-the-badge&logo=github)](https://github.com/jpedrotg23)
 
-Também tenho contato com React Native, Expo, GDScript, Framer Motion, Gradle e ferramentas de desenvolvimento.
+## 📫 Contact
 
-## 📬 Vamos conversar?
-
-Estou aberto a trocar ideias sobre tecnologia, desenvolvimento e projetos.
-
-[![Portfólio](https://img.shields.io/badge/Meu%20portf%C3%B3lio-Acessar-E50914?style=for-the-badge&logo=googlechrome&logoColor=white)](https://jpedrotg23.github.io/portfolio-react/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/joaootg)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/joaootg)
+[![Gmail](https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joaopedrotg23@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-@jpedrotg-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/jpedrotg)
-[![E-mail](https://img.shields.io/badge/E--mail-Enviar%20mensagem-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joaopedrotg23@gmail.com)
 
-📄 [Acessar meu currículo](https://drive.google.com/file/d/1GCoYGFlUFU7bxJjfV8HpOwsjU4hNUL_c/view?usp=sharing)
+🌐 **Portfolio:** [jpedrotg23.github.io/portfolio-react](https://jpedrotg23.github.io/portfolio-react/)
 
 ---
 
-<sub>Construindo, aprendendo e evoluindo um projeto de cada vez.</sub>
