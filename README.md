@@ -34,7 +34,7 @@ Também tenho contato com **Vite, Expo, Framer Motion, Gradle, Godot e GDScript*
 
 ## 📄 Currículo
 
-[![Meu Currículo](https://img.shields.io/badge/📄%20MEU%20CURR%C3%8DCULO-ACESSAR-181717?style=for-the-badge)](https://drive.google.com/file/d/1GCoYGFlUFU7bxJjfV8HpOwsjU4hNUL_c/view?usp=sharing)
+[![Meu Currículo](https://img.shields.io/badge/📄%20MEU%20CURR%C3%8DCULO-ACESSAR-181717?style=for-the-badge)](https://drive.google.com/file/d/1k1Y0qDywndpNDOSOxXPUxpmGvuesuMZu/view?usp=sharing)
 
 ---
 
